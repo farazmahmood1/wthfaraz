@@ -3,7 +3,7 @@
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faraz-mahmood1/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/farazmahmood19)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Filipino+Software+Engineer;Open-Source+Developer+Advocate;Cybersecurity+Researcher;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans&duration=3000&pause=500&color=4078C0&width=535&lines=Business+Developer%2C+;+Software+Engineer%2C;Open-source+Developer%2C;AI+researcher%2C;+tech+community+leader;web3+enthusiast%2C;technopreneur+from+Pakistan)](https://git.io/typing-svg)
 
 Business Developer, Software engineer, open-source developer, AI researcher, tech community leader, web3 enthusiast, and technopreneur from Pakistan. 💻💖☕
 
