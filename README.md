@@ -24,7 +24,7 @@ Business Developer, Software engineer, open-source developer, AI researcher, tec
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,wordpress,nodejs,react,mongodb,mysql,py,git,figma,bash,cloudflare,jquery,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,wordpress,nodejs,react,mongodb,git,figma,jquery,vscode&theme=light)
 
 ---
 
